@@ -4,3 +4,4 @@ feedparser
 pio
 spacy
 wordcloud
+plotly
