@@ -1,3 +1,4 @@
+pandas
 umap-learn
 sentence_transformers
 feedparser
